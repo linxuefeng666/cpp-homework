@@ -1,10 +1,17 @@
+```
 # cpp-homework
-C++课程作业仓库
+C++ 课程作业仓库
 
 ## 目录结构
-- src：存放C++源代码
-- build：存放编译生成的可执行文件
-- docs：存放文档
+```
 
-## Task1
-完成HelloWorld程序，熟悉g++编译、Git提交流程。
+cpp-homework/
+├── task1/
+│   └── environment/   # 第一次任务：环境配置
+├── task2/
+│   ├── cpp/
+│   │   ├── 1/        # 入门一 5 道题
+│   │   └── 2/        # 入门二 5 道题
+│   └── ros/          # ROS2 环境配置
+└── README.md
+```
