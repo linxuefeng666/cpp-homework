@@ -1,0 +1,20 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from action_sum_cpp/action/Sum.action
+// generated code does not contain a copyright notice
+
+
+module action_sum_cpp {
+  module action {
+    struct Sum_Goal {
+      int32 n;
+    };
+    struct Sum_Result {
+      int32 total_sum;
+    };
+    struct Sum_Feedback {
+      int32 current_num;
+
+      int32 current_sum;
+    };
+  };
+};

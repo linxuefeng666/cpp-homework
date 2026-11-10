@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "action_sum_cpp__rs",
+		"source" : "/home/linxuefeng/ws_ros/build/action_sum_cpp/action_sum_cpp__rs"
+	}
+}

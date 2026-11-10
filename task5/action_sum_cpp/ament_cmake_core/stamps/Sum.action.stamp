@@ -1,0 +1,6 @@
+int32 n
+---
+int32 total_sum
+---
+int32 current_num
+int32 current_sum

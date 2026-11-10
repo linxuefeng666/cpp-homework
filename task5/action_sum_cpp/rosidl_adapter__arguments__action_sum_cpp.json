@@ -1,0 +1,6 @@
+{
+  "package_name": "action_sum_cpp",
+  "non_idl_tuples": [
+    "/home/linxuefeng/ws_ros/src/action_sum_cpp:action/Sum.action"
+  ]
+}
